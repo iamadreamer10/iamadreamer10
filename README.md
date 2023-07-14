@@ -1,7 +1,7 @@
 <div align= "center">
   
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=gradient&customColorList=22&height=200&section=header&text=I%20am%20A%20Dreamer&fontSize=80)
-![footer](https://capsule-render.vercel.app/api?section=footer&type=Waving'&color=gradient&customColorList=22&height=20&section=footer&text=kwonwonyoung&fontSize=20&fontColor=black)
+
 
 <br/>
 
