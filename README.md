@@ -31,5 +31,5 @@ contact📧: onyo9ssafy@gmail.com
 ### :pencil2: Study log
  
 
-[![kwonwonyoung's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kwonwonyoung)](https://github.com/kwonwonyoung/github-readme-stats)
+[![iamadreamer10's GitHub stats](https://github-readme-stats.vercel.app/api?username=iamadreamer10)](https://github.com/iamadreamer10/github-readme-stats)
 </div>
