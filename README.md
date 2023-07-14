@@ -8,8 +8,8 @@
 ####  :wave: It's my GitHub Profile  😏
 <br/>
 
-현재 SSAFY 10기 Python반에서 공부하고 있습니다! 🖥️
-
+현재 SSAFY 10기 Python반에서 공부하고 있습니다! 🖥️ 
+contact📧: onyo9ssafy@gmail.com 
 <br/>
 <br/>
 <br/>
