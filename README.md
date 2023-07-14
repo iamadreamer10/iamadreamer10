@@ -15,9 +15,11 @@ contact📧: onyo9ssafy@gmail.com
 <br/>
 <br/>
 
-#### 📝Programming
+#### 📝Programming(...예정😆)
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
 <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black">
+<img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=Django&logoColor=white">
+<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=Vue.js&logoColor=white">
 <br/>
 <br/>
 
