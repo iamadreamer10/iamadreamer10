@@ -1,16 +1,34 @@
-### Hi there 👋
+<div align= "center">
+  
+![header](https://capsule-render.vercel.app/api?type=Waving&color=gradient&customColorList=22&height=200&section=header&text=I%20am%20A%20Dreamer&fontSize=80)
+![footer](https://capsule-render.vercel.app/api?section=footer&type=Waving'&color=gradient&customColorList=22&height=20&section=footer&text=kwonwonyoung&fontSize=20&fontColor=black)
 
-<!--
-**iamadreamer10/iamadreamer10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br/>
 
-Here are some ideas to get you started:
+####  :wave: It's my GitHub Profile  😏
+<br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+현재 SSAFY 10기 Python반에서 공부하고 있습니다! 🖥️
+
+<br/>
+<br/>
+<br/>
+
+#### 📝Programming
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
+<img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black">
+<br/>
+<br/>
+
+#### 📝Git
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=GitLab&logoColor=white"/>
+<br/>
+<br/>
+<br/>
+ 
+### :pencil2: Study log
+ 
+
+[![kwonwonyoung's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kwonwonyoung)](https://github.com/kwonwonyoung/github-readme-stats)
+</div>
