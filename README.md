@@ -8,7 +8,7 @@
 ####  :wave: It's my GitHub Profile  😏
 <br/>
 
-**SSAFY 10기 Python반** 🖥️ 
+**SSAFY 10기** 🖥️ 
 <br/>
 contact📧: onyo9ssafy@gmail.com 
 <br/>
@@ -18,12 +18,8 @@ contact📧: onyo9ssafy@gmail.com
 #### 📝Programming
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
 <img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=Django&logoColor=white">
-
-#### 📝Programming(...예정😆)
 <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black">
 <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=Vue.js&logoColor=white">
-<br/>
-<br/>
 
 #### 📝Tool
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
