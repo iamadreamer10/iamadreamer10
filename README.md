@@ -5,7 +5,7 @@
 
 <br/>
 
-###  :wave: I am a Dreamer  🌃
+###  :wave: Hello! I am a Dreamer  🌃
 <br/>
 
 **SSAFY 10기** 🖥️ 
