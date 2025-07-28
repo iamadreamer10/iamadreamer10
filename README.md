@@ -47,7 +47,7 @@ contact📧: onyo9ssafy@gmail.com
 </div>
 
 ### ℹ️ Another Information ℹ️
-![iamadreamer10's GitHub stats](https://github-readme-stats.vercel.app/api?username=iamadreamer10&show_icons=true&theme=radical)
+[![iamadreamer10's GitHub stats](https://github-readme-stats.vercel.app/api?username=iamadreamer10)](https://github.com/iamadreamer10/github-readme-stats)
 <br/>
 <br/>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamadreamer10&layout=compact)
